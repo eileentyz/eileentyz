@@ -1,4 +1,4 @@
-### I'm Eileen ⋆˚✿˖°
+### Hi! I'm Eileen ⋆˚✿˖°
 
 An EEE student at NTU, passionate about building cool things with code, exploring new tech, and solving real-world problems with creativity!
 
