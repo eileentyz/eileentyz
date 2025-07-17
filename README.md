@@ -4,6 +4,6 @@ I'm an EEE undergraduate at NTU Singapore, passionate about building cool things
 
 🌱 Currently learning: Unity XR, AI/ML, and full-stack development  
 💻 Most comfortable with: Python, C++, HTML/CSS/JS, C#  
-🌈 I enjoy: Hackathons, playing with cats and dogs!!!
+🌈 I enjoy: Hackathons, cats and dogs!!!
 
 Thanks for stopping by 𖹭.ᐟ
