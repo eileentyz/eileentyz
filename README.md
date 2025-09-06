@@ -6,4 +6,6 @@ I'm an EEE undergraduate at NTU Singapore, passionate about building cool things
 💻 Most comfortable with: Python, C++, HTML/CSS/JS, C#  
 🌈 I enjoy: Hackathons, cats and dogs!!!
 
+eileentyz.github.io/personal-portfolio/
+
 Thanks for stopping by 𖹭.ᐟ
