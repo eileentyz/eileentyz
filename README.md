@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Eileen ⋆˚✿˖°</h1>
-<h3 align="center">⚡ Electrical & Electronic Engineering Student | AI & ML Enthusiast 🤖</h3>
+<h3 align="center">⚡ Electrical & Electronic Engineering Student | AI & ML Enthusiast :> </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eileentyz&color=ff69b4&style=flat-square" />
