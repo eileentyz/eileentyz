@@ -15,18 +15,12 @@
 
 
 ### 🛠️ Tech Stack
-
-#### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-ffb6c1?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-fccb7e?style=for-the-badge&logo=mathworks&logoColor=white)
-
-#### 🧠 AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-ff9999?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ffcccb?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ffd1dc?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-f4a6c1?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-ffb7ce?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-ffc0cb?style=for-the-badge&logo=linux&logoColor=white)
