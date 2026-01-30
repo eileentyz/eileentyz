@@ -3,15 +3,15 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eileentyz&color=ff69b4&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" />
+  <img src="https://img.shields.io/github/followers/eileentyz?style=social" />
+  <img src="https://img.shields.io/github/stars/eileentyz?style=social" />
 </p>
 
 
-### 🌷 About Me
-- 🎓 EEE Student @ NTU Singapore
-- 🤖 Interested in AI, ML, Robotics and Embedded Systems
-- 🌱 Currently learning: PyTorch, Deep Learning, ARM and all the cool stuffs!!
+### About Me
+- EEE Student @ NTU Singapore
+- Interested in AI, ML, Robotics and Embedded Systems
+- Currently learning: PyTorch, Deep Learning, ARM and all the cool stuffs!!
 
 
 ### 🛠️ Tech Stack
@@ -50,5 +50,5 @@
 </p>
 
 ---
-eileentyz.github.io/personal-portfolio/
+**Portfolio:** [eileentyz.github.io/personal-portfolio](https://eileentyz.github.io/personal-portfolio/)
 *Thanks for stopping by 𖹭.ᐟ* 
