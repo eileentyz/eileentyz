@@ -7,14 +7,12 @@
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" />
 </p>
 
----
 
 ### 🌷 About Me
 - 🎓 EEE Student @ NTU Singapore
 - 🤖 Interested in AI, ML, Robotics and Embedded Systems
 - 🌱 Currently learning: PyTorch, Deep Learning, ARM and all the cool stuffs!!
 
----
 
 ### 🛠️ Tech Stack
 
@@ -33,8 +31,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-ffb7ce?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-ffc0cb?style=for-the-badge&logo=linux&logoColor=white)
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -42,14 +38,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eileentyz&theme=radical&border_radius=20" />
 </p>
 
----
 
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eileentyz&theme=radical&row=1&column=6" />
 </p>
 
----
 
 ### 📫 Let's Connect!
 <p align="center">
