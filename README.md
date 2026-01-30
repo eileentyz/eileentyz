@@ -2,7 +2,7 @@
 <h3 align="center">⚡ Electrical & Electronic Engineering Student | AI & ML Enthusiast 🤖</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=eileentyz&color=ff69b4&style=flat-square" />
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" />
 </p>
@@ -38,7 +38,7 @@
 ### 📊 GitHub Stats (Cute Mode 💕)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=20" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eileentyz&show_icons=true&theme=radical&border_radius=20" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border_radius=20" />
 </p>
 
@@ -46,17 +46,17 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eileentyz&theme=radical&row=1&column=6" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/eileen-teoh">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:eteoh001@e.ntu.edu.sg">
     <img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
