@@ -1,5 +1,10 @@
 ### Hi there! I'm Eileen ⋆˚✿˖°
 #### Electrical & Electronic Engineering Student | AI & ML Enthusiast :>
+
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXByeHlod3J3ZzB6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/qECWEJ69G0Wf4sGRwZ/giphy.gif" width="120" alt="Happy Bunny" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eileentyz&label=Profile%20views&color=0e75b6&style=flat" alt="eileentyz" /> </p>
 
 - 🎓 EEE Student @ NTU Singapore
@@ -44,4 +49,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-*Thanks for stopping by 𖹭.ᐟ*
+Thanks for stopping by 𖹭!
