@@ -3,8 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eileentyz&color=ff69b4&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/eileentyz?style=social" />
-  <img src="https://img.shields.io/github/stars/eileentyz?style=social" />
 </p>
 
 
