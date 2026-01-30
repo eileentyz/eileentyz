@@ -15,6 +15,8 @@
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-ffb6c1?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ffb6c1?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C#-ffb6c1?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-fccb7e?style=for-the-badge&logo=mathworks&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ff9999?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ffcccb?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -24,10 +26,8 @@
 ![Linux](https://img.shields.io/badge/Linux-ffc0cb?style=for-the-badge&logo=linux&logoColor=white)
 
 ### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eileentyz&show_icons=true&theme=radical&border_radius=20" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=eileentyz&theme=radical&border_radius=20" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eileentyz&show_icons=true&count_private=true&theme=radical&border_radius=20" />
 </p>
 
 
