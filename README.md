@@ -6,7 +6,7 @@
 </p>
 
 - 🎓 EEE Student @ NTU Singapore
-- 🔭 Currently learning: PyTorch, Deep Learning, ARM and all the cool stuffs!!
+- 🔭 Currently learning: PyTorch, Deep Learning, ARM and all the cool stuff!!
 - 🌱 Interested in AI, ML, Robotics and Embedded Systems
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/eileen-teoh).
 
