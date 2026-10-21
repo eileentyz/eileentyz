@@ -97,8 +97,6 @@ I'm an EEE student who enjoys bringing hardware and software together to build i
     src="https://raw.githubusercontent.com/eileentyz/eileentyz/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<img src="https://komarev.com/ghpvc/?username=eileentyz&color=ffb6c1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
 Thanks for stopping by! ♡
 
 </div>
