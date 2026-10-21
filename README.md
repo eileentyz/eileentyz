@@ -48,3 +48,15 @@
 </p>
 
 𖹭!
+
+---
+
+### 🔥My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eileentyz)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eileentyz&layout=compact&theme=vision-friendly-dark)](https://github.com/eileentyz/github-readme-stats)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/eileentyz/eileentyz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/eileentyz/eileentyz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=eileentyz)
